@@ -18,7 +18,6 @@
 <p align="left">
   🎯 Game Developer focused on <b>Unity 3D</b> and <b>C#</b><br>
   🧠 Experienced in <b>AI & Gameplay Systems</b> (Waypoints, NavMesh, Enemy Behavior)<br>
-  🚀 Developed multiple <b>3D Games</b> including Endless Runner, Racing & Survival games<br>
   📚 Constantly learning and improving in <b>Game Mechanics, Optimization & AI</b><br>
   🤝 Open to collaboration on <b>Game Development</b> and <b>Software Projects</b>
 </p>
